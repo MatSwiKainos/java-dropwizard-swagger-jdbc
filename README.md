@@ -8,7 +8,7 @@ Database
 mysql --host=<localhost> --user=<your_username> --password=<your_password> <your_database_name> < employeesdb.sql
 ```
 
-Config2
+Config
 ---
 1. The following environment variables need to be set to enable database connection:
 ```
